@@ -21,10 +21,9 @@ function App() {
   }, []);
 
   return (
-    <div className="App">
+    <div className="App" >
       {/* <header className=""> */}
         <div className="App-header container-fluid">
-          
           <DrinkList myDrinks={myDrinks} drinkLoader={getDrinks}></DrinkList>
         </div>
 

@@ -24,6 +24,12 @@
   color: white;
 }
 
+.modalElement {
+    background-color: #9b064c;
+    color: white;
+  
+}
+
 .App-link {
   color: #61dafb;
 }
